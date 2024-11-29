@@ -1,2 +1,2 @@
 # Individual-project-results
-个人项目成果
+此仓库为徐卓雅的个人项目成果。
